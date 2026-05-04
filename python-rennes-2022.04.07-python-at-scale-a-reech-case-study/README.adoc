@@ -1,0 +1,13 @@
+= Python at scale - a Reech case-study - jeudi 7 avril 2022
+
+.Rediffusion vidéo : https://www.youtube.com/watch?v=Jj3GRaOMpI8 (merci Alex !)
+image::assets/2022.04.07-python_at_scale-a_reech_case-study.jpg[width="50%",link="https://www.youtube.com/watch?v=Jj3GRaOMpI8&list=PLv7xGPH0RMUT1GSCGHJmqnswpk-nyz5aq"]
+
+== Actualités
+
+Par **Luc Sorel-Giffo** : link:2022.04.07-quoi_de_noeuf-actualités.pdf[2022.04.07-quoi_de_noeuf-actualités.pdf] (source : https://github.com/lucsorel/python-for-the-muggle-born-developer/blob/main/quoi-de-noeuf-python/2022.04.07.md)
+
+== Présentations
+Présentations et personnes intervenantes :
+
+* **Michel Caradec** : "Python at scale - a Reech case-study" (repo : https://gitlab.com/reech-oss/meetup/meetup-python-rennes-at-scale[gitlab.com/reech-oss/meetup/meetup-python-rennes-at-scale], diaporama : link:2022.04.07-Michel_Caradec-Python_at_scale-a_Reech_case-study.pdf[2022.04.07-Michel_Caradec-Python_at_scale-a_Reech_case-study.pdf])
