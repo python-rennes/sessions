@@ -1,0 +1,15 @@
+= Retours d'expérience de frameworks web et d'orchestration de workflows - lundi 27 avril 2026
+
+.Rediffusion vidéo : https://www.youtube.com/watch?v=xxx (merci Alex !)
+image::assets/2026.07.01-rex-frameworks-web-et-orchestrateurs.png[width="50%",link="https://www.youtube.com/watch?v=xxx&list=PLv7xGPH0RMUT1GSCGHJmqnswpk-nyz5aq"]
+
+== Actualités
+
+Par **Luc Sorel-Giffo** : link:2026.07.01-quoi_de_noeuf.pdf[2026.07.01-quoi_de_noeuf.pdf] (source : link:2026.07.01-quoi_de_noeuf.adoc[2026.07.01-quoi_de_noeuf.adoc])
+
+== Présentations
+Présentations et personnes intervenantes :
+
+* **Jonathan Léger** : "Plaidoyer pour un monde sans ORM" (diaporama : link:2026.07.01-Jonathan_Léger-Plaidoyer_monde_sans_ORM.pdf[2026.07.01-Jonathan_Léger-Plaidoyer_monde_sans_ORM.pdf])
+
+* **Anthony Ricaud** : "SQL avancé (via ORM Django)" (diaporama : link:2026.07.01-Anthony Ricaud-SQL_avancé_avec_django_ORM.pdf[2026.07.01-Anthony Ricaud-SQL_avancé_avec_django_ORM.pdf])
