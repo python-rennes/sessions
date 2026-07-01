@@ -24,7 +24,7 @@ Python Rennes - mercredi 1er juillet 2026 - **Liksi** 🙏
 
 == Prochainement dans http://rennes.tech
 
-* BreizhCamp 2026 🌡️ (24-26 juin)
+* BreizhCamp 2026 🌡️🌪️ (24-26 juin)
 
 * les vacances 🏖️⛰️
 
@@ -39,7 +39,7 @@ Python Rennes - mercredi 1er juillet 2026 - **Liksi** 🙏
 Communauté "services numériques" complétant les communautés datascience existantes.
 
 [.medium-text]
-643 membres
+647 membres
 
 .Groupe meetup : https://www.meetup.com/fr-FR/python-rennes/
 image::assets/python_rennes-communauté.png[communauté Python Rennes]
