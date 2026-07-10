@@ -5,7 +5,7 @@ image::assets/2026.04.27-rex-frameworks-web-et-orchestrateurs.png[width="50%",li
 
 == Actualités
 
-Par **Michel Caradec** : link:2026.04.27-quoi_de_noeuf-actualités.pdf[2026.04.27-quoi_de_noeuf-actualités.pdf] (source : https://github.com/lucsorel/python-for-the-muggle-born-developer/blob/main/quoi-de-noeuf-python/2022.04.07.md)
+Par **Michel Caradec** : link:2026.04.27-quoi_de_noeuf-actualités.pdf[2026.04.27-quoi_de_noeuf-actualités.pdf].
 
 == Présentations
 Présentations et personnes intervenantes :
