@@ -1,16 +1,17 @@
 = Retours d'expérience de frameworks web et d'orchestration de workflows - lundi 27 avril 2026
 
-.Rediffusion vidéo : https://www.youtube.com/watch?v=pv4_7SNBe8g (merci Alex !)
-image::assets/2026.10.12-vcrpy_hacked.jpg[width="50%",link="https://www.youtube.com/watch?v=pv4_7SNBe8g&list=PLv7xGPH0RMUT1GSCGHJmqnswpk-nyz5aq"]
+.Rediffusion vidéo : https://www.youtube.com/watch?v=o-c1ec1tDLQ (merci Alex !)
+image::assets/2026.10.12-vcrpy_hacked.jpg[width="50%",link="https://www.youtube.com/watch?v=o-c1ec1tDLQ&list=PLv7xGPH0RMUT1GSCGHJmqnswpk-nyz5aq"]
+
+Note : la présentation de Nicolas Ledez sera mise en ligne après la PyConFR 2026 dans une vidéo à part.
 
 == Actualités
 
 Par **Luc Sorel-Giffo** : link:2026.10.12-quoi_de_noeuf.pdf[2026.10.12-quoi_de_noeuf.pdf] (source : link:2026.10.12-quoi_de_noeuf.adoc[2026.10.12-quoi_de_noeuf.adoc])
 
 == Présentations
+
 Présentations et personnes intervenantes :
 
-
-* **Pascal Le Merrer** : "Accélérez vos tests avec VCRpy" (diaporama : link:2026.10.12-Pascal_Le_Merrer-Accélérez_vos_tests_avec_VCRpy.pdf[2026.10.12-Pascal_Le_Merrer-Accélérez_vos_tests_avec_VCRpy.pdf])
-
-* **Nicolas Ledez** : "Au secours on s'est fait hacker pendant un downtime de Claude" (diaporama : link:2026.10.12-Nicolas_Ledez-Hacké_pendant_un_downtime_de_Claude.pdf[2026.10.12-Nicolas_Ledez-Hacké_pendant_un_downtime_de_Claude.pdf])
+* **Pascal Le Merrer** : "Accélérez vos tests avec VCRpy" (diaporama : https://lemerrer.com/slides/VCRpy%20-%20Python%20Rennes%202026.pdf[lemerrer.com/slides/VCRpy - Python Rennes 2026.pdf])
+* **Nicolas Ledez** : "Au secours on s'est fait hacker pendant un downtime de Claude" (diaporama non partagé)
