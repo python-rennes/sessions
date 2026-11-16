@@ -26,7 +26,7 @@ Python Rennes - lundi 12 octobre 2026 - **Zenika** 🙏
 
 * mardi 13 octobre (Younup) : [Afup] Mobprogramming leekwar
 * mardi 13 octobre (Le Poool) : [Yeeso] Conférence mixte de rentrée
-* mercredi 14 octobre (Wijin) : [Software Crafters Rennes ] Plain Pattern Language
+* mercredi 14 octobre (Wijin) : [Software Crafters Rennes] Plain Pattern Language
 * jeudi 15 octobre (Le Poool) : [Mobile Rennes] Unicode for Mobile Developers
 * jeudi 15 octobre (Néosoft) : [Rennes DevOps] Jenkins as-code sur GKE, puis cap sur Scaleway 🚀
 
